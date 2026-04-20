@@ -16,8 +16,6 @@ Ghost Clicker is a lightweight auto clicker designed to keep things simple, fast
 4. Let it run while you focus on other tasks
 
 ## 📌 Notes
-- Works best when run as administrator (optional)
-- Some games or apps may block auto clickers
 - Use responsibly
 
 ## ⚡ Purpose
